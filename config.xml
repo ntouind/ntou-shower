@@ -8,8 +8,8 @@
         NTOU IND
     </author>
     <access origin="http://127.0.0.1*"/>
-	<access origin="http://android.furry.pw*" />
-	<access origin="http://140.121.80.8*" />
+    <access origin="http://android.furry.pw*" />
+    <access origin="http://140.121.80.8*" />
     <gap:platform name="ios" />
     <gap:platform name="android" />
     <gap:platform name="winphone" /
