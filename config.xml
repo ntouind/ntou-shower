@@ -4,13 +4,14 @@
     <description>
         Hello World sample application that responds to the deviceready event.
     </description>
-    <author email="orinx@orinx.com" href="http://blog.orinx.com>
+    <author email="orinx@orinx.com" href="http://blog.orinx.com">
         NTOU IND
     </author>
+    <icon src="icon.png" />
     <access origin="http://127.0.0.1*"/>
     <access origin="http://android.furry.pw*" />
     <access origin="http://140.121.80.8*" />
     <gap:platform name="ios" />
     <gap:platform name="android" />
-    <gap:platform name="winphone" /
+    <gap:platform name="winphone" />
 </widget>
