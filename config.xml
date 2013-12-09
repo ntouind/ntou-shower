@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.orinx.ntoushower" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>NTOU Shower</name>
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+    <author email="orinx@orinx.com" href="http://blog.orinx.com">
+        Institute of Network Development, NTOU
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    
+    <icon src="icons/ios/icon-57.png"       gap:platform="ios" width="57"  height="57"  />
+    <icon src="icons/ios/icon-72.png"       gap:platform="ios" width="72"  height="72"  />
+    <icon src="icons/ios/icon-57@2x.png"    gap:platform="ios" width="114" height="114" />
+    <icon src="icons/ios/icon-72@2x.png"    gap:platform="ios" width="144" height="144" />
+</widget>
